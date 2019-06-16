@@ -1,0 +1,14 @@
+Name,	Point cloud,	Dense cloud,	Surface,	Texture
+Bundler,	no cuda,	-,	-, -
+CMVS,	-,	no cuda,	-,	-
+COLMAP,	no cuda	,	cuda only,	cuda only,	-
+Meshlab,	-,	-,	no cuda,	no cuda
+Meshroom,	no cuda,	cuda only,	no cuda,	no cuda
+MicMac,	no cuda,	no cuda,	no cuda,	no cuda
+MVE,	no cuda,	no cuda,	no cuda	,	-
+openMVG,	no cuda,	no cuda,	-,	-
+openMVS,	-,	-,	no cuda,	no cuda
+PPT GUI (for CMVS/PMVS),	no cuda,	no cuda,	no cuda,	no cuda
+Regard 3D,	no cuda,	no cuda,	no cuda,	no cuda
+Theia,	no cuda,	-,	-,	-
+VisualSFM,	no cuda,	no cuda,	-,	-
