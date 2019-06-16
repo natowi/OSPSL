@@ -8,7 +8,9 @@ MicMac,	Yes,	Yes,	Yes,	Yes
 MVE,	Yes,	Yes,	Yes	,	-
 openMVG,	Yes,	Yes,	-,	-
 openMVS,	-,	-,	Yes,	Yes
+OpenSfM,	?,	?,	?,	?
 PPT GUI (for CMVS/PMVS),	Yes,	Yes,	Yes,	Yes
 Regard 3D,	Yes,	Yes,	Yes,	Yes
-Theia,	Yes,	-,	-,	-
+TeleSculptor,	?,	?,	?,	?
+Theia SfM,	Yes,	-,	-,	-
 VisualSFM,	Yes,	Yes,	-,	-
