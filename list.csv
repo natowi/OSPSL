@@ -1,4 +1,4 @@
-Name,	Point cloud,	Dense cloud,	Surface,	Texture
+Name,	Camera Alignment/Sparse Point Cloud,	Dense point cloud,	Meshing,	Texturing
 Bundler,	Yes,	-,	-, -
 CMVS,	-,	Yes,	-,	-
 COLMAP,	Yes	,	CUDA only,	CUDA only,	-
