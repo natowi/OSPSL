@@ -1,4 +1,4 @@
-Name,	Camera Alignment/Sparse Point Cloud,	Dense point cloud,	Meshing,	Texturing
+Name,	Camera Alignment/Sparse Point Cloud,	Dense Reconstruction/point cloud,	Meshing,	Texturing
 Bundler,	Yes,	-,	-, -
 CMVS,	-,	Yes,	-,	-
 COLMAP,	Yes	,	CUDA only,	CUDA only,	-
@@ -14,3 +14,22 @@ Regard 3D,	Yes,	Yes,	Yes,	Yes
 TeleSculptor,	?,	?,	?,	?
 Theia SfM,	Yes,	-,	-,	-
 VisualSFM,	Yes,	Yes,	-,	-
+TeleSculptor,	?,	?,	?,	?
+hpmvs,	?,	Yes,	?,	?
+smvs,	?,	?,	?,	?
+CoSLAM, Yes,	?,	?,	?
+DSO, Yes,	?,	?,	?
+dtslam, Yes,	?,	?,	?
+maplab, Yes,	Yes,	?,	?
+okvis,	?,	?,	?,	?
+ORB_SLAM2, Yes,	?,	?,	?
+rebvo,	?,	?,	?,	?
+rpg_svo, Yes,	?,	?,	?
+
+
+
+
+
+
+
+
